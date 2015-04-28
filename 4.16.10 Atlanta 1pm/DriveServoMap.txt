@@ -1,0 +1,11 @@
+Left Drive (servo)
+
+Low Gear = 0
+
+High Gear = 127
+
+Right Drive
+
+Low gear = 0
+
+High gear = 127

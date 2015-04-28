@@ -1,0 +1,11 @@
+Axis 1: left joystick (X) (-1 = full left)(1 = full right)
+
+Axis 2: left joystick (Y) (-1 = full up)(1 = full down)
+
+Axis 3: right joystick (X) (-1 = full left)(1 = full right)
+
+Axis 4: right joystick (Y) (-1 = full up)(1 = full down)
+
+Axis 5: d-pad (X) (-1 SHOULD BE LEFT BUG!!!!)(1 = right)
+
+Axis 6: d-pad (Y) (-1 = up)(1 = down)

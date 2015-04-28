@@ -1,0 +1,26 @@
+left drive
+
+low gear = 0.95 servo
+
+high gear = 0.1 servo 
+
+right drive
+
+low gear = 1
+
+high gear = 0.2
+
+
+New transmissions
+
+left Drive
+
+high gear = 0.3
+
+low gear = 0.7
+
+right drive
+
+high gear = 0.65
+
+low gear = 0.25
